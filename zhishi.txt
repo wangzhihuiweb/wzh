@@ -1,0 +1,840 @@
+Github代码托管：第一步，shift加鼠标右键，在此处打开命令窗口，git init 创建托管；git status 查看状态（红字代表没上传），上传git add --all；再git status（绿字上传成功），git commit -m ‘上传的日子内容（也算上传提交）’；git log 查看日志；然后在网上github 新建仓库；复制（git remote add origin git@github.com:wangzhihuiweb/xixi.git）执行下一步（这个也算一步），git push -u origin master上传到主线；git branch gh-pages 拉一个分子；git checkout gh-pages使用这个分子； git push -u origin gh-pages 提交这个分子；
+
+命令清屏cls
+
+
+SegmentFault ( www.sf.gg ) 是中国领先的开发者技术社区。https://segmentfault.com/
+
+http://www.jikedaohang.com/qianduan.html 前端牛逼网站
+
+https://wangzhihuiweb.github.io
+
+
+关于地址获取和显示
+
+initAreaDefault(）初始化；
+editAddressDefault(area.Id) //有默认地址传第三极id；
+getProvinceDefault()  //无默认地址传；
+
+
+
+1462942304@qq.com      xuqiao681248
+
+70769315  123
+
+65118766
+
+Visual Studio Code November 2016
+
+sticky notes 便签贴
+
+ipconfig /all 电脑配置查询
+
+Confluence是一个专业的企业知识管理与协同软件
+
+http://www.itellyou.cn/  系统下载地址
+
+msconfig 开始或关闭启动项
+
+ Emmet加快你的 HTML 和 CSS 编写速度。
+
+HBuilder 、Brackets 前端开发软件
+
+用各种框架实现一个网站；（登录、注册、首页、个人中心、
+使用webAPP
+
+仿写ngRoute 模块的运行效果，写一个SPA应用框架；
+
+
+在线编辑器的支持：
+
+ JSFiddle
+ JS Bin
+ CodePen
+ ICEcoder
+ Divshot
+ Codio
+
+Foxmail邮件客户端,简捷易用的邮件管理专家。
+
+Swiper常用于移动端网站的内容触摸滑动
+
+鸟哥的linux私房菜
+
+画廊插件baguetteBox.js
+
+http://www.chuanke.com  百度传课
+
+masonry.pkgd.min.js  瀑布流
+
+
+高德key: 2a09fddf71747e35566747520d346d51
+
+
+premiere 截视频
+http://localhost:10708/Center/SeckillProducts/SeckillProduct.aspx?pid=CZ0001
+陕西省咸阳市三原县陵前镇曹师村
+font-family:微软雅黑,Microsoft yahei;
+http://woxx.sinaapp.com/   AngularJS中文网
+http://mail.163.com/html/ntesmail6/#node=10
+wangzhihuihly@gmail.com  mima081192
+placeholder="账号"
+consoles
+
+ onload = function () {
+        var appElement = document.querySelector('[ng-controller=myController]');
+        var $scope = angular.element(appElement).scope();
+        $scope.getData();
+    }
+
+ipconfig http://192.168.0.145/
+
+-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+
+ <select ng-change="changeFun(selectedkey)" ng-init="selectedkey='YD0000'" ng-model="selectedkey">
+                <option ng-repeat="x in EquipmentList" value="{{x.key}}">{{x.value}}</option>
+            </select>
+
+
+http://192.168.0.2:8080/ 互智社群
+http://192.168.0.2:8096/ 食安互智社群
+
+<!-- uc强制竖屏 -->
+<meta name="screen-orientation" content="portrait">
+<!-- QQ强制竖屏 -->
+<meta name="x5-orientation" content="portrait">
+<!-- UC强制全屏 -->
+<meta name="full-screen" content="yes">
+<!-- QQ强制全屏 -->
+<meta name="x5-fullscreen" content="true">
+<!-- UC应用模式 -->
+<meta name="browsermode" content="application">
+<!-- QQ应用模式 -->
+<meta name="x5-page-mode" content="app">
+<!-- windows phone 点击无高光 -->
+<meta name="msapplication-tap-highlight" content="no">
+<!-- 适应移动端end -->
+
+
+  layer.close(index);
+                window.location.href = window.location.href;
+
+three.js 教程
+
+ 禁止suggest事件
+console.dirxml(table);显示该节点
+console.dir();显示该对象
+
+console.assert()一个表达式或变量是否为真
+
+
+1、手写原生js代码；2、懂得js底层运行原理；
+
+
+ if (json.IsDefault == true) {
+                    $("#checkboxQ").attr("checked", "checked")
+                } else {
+                    $("#checkboxQ").attr("checked", false)
+                }
+
+$(this).next().after($(this).prop("outerHTML"));
+
+
+郑州市管城回族区紫荆山路商城路裕鸿国际c座1409 王婷婷
+
+北京市昌平区北农路华北电力大学 刘静
+
+JQUERY 获取 IFRAME 父页面与子页面的元素和方法  http://www.cssue.com/javascript-jquery/jquery-iframe.html
+
+地图CwnpFxKmGhODegEvspPFpjdI
+相册CwnpFxKmGhODegEvspPFpjdI
+
+
+http://zdyx.shianyunduanbj.com/Work/Work.html
+
+aspcms
+http://wangboxyk.cn/templates/post/aspcms-anzhuang-jiaocheng.html
+
+
+link            未访问（默认）		hover         鼠标悬停（鼠标划过）		active         链接激活（鼠标按下）		visited        访问过后（点击过后）
+
+
+
+效果
+http://www.uisdc.com/
+http://www.uisdc.com/70-new-single-page-website
+
+
+http://localhost:8008/admin_aspcms/index.asp
+
+http://192.168.0.2:5555/MicroLe/microle.html
+
+//创建css样式表
+function Css(){
+	var oCss=document.createElement("link");
+		oCss.async=false;
+		oCss.setAttribute("rel", "stylesheet"); 
+        oCss.setAttribute("type", "text/css");  
+        oCss.setAttribute("href", "video/css/video.css?'" + Math.random() + "'");
+	document.getElementsByTagName("head")[0].appendChild(oCss);
+}
+
+
+
+    var windowW = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+    var windowH = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+
+
+?'" + Math.random() + "'
+
+
+1-99个数字，除了这20个数字以外(6,16,26,36,46,56,76,86,96,61,62,63,64,65,67,68,69,8,18,28)，其他数字随机提示给用户，点击按钮之后就弹出一个框框给个随机数
+随机数
+var num = [6, 16, 26, 36, 46, 56, 76, 86, 96, 61, 62, 63, 64, 65, 67, 68, 69, 8, 18, 28];
+$(function () {
+    numssfun()
+})
+function numssfun() {
+    var numss = parseInt(Math.random() * (99 - 1) + 1)
+         console.log(numss)
+    if (num.indexOf(numss) >= 0) {
+        numssfun()
+        //return;
+    } else {
+        console.log(numss)
+        
+    }
+}
+
+
+华科星汇（北京）科技有限公司
+
+scrollTop=document.documentElement.scrollTop||document.body.scrollTop;
+
+hbuilder
+
+关机：shutdown -s -t 秒数
+
+如何在list中点击item后改变对应的item的样式
+
+http://www.jb51.net/article/50570.htm  字符分割
+
+font: 12px/1.5 Tahoma, Helvetica, Arial, sans-serif;
+<a href="javascript:void(0);">2</a>
+
+修改密码：update [User] set password='0' ,passwordmd5='cfcd208495d565ef66e7dff9f98764da'
+'
+
+    background: url(../images/jungongpinzhi.png);
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+(function table(){
+})()
+
+   $(window).resize(function () {
+        var W_width = ($(window).width());
+        if (W_width <= "1000") {
+            //alert(000)
+            $(".Nav_Wrap").css({ "position":"none" })
+        } else {
+            $(".Nav_Wrap").css({ "position": "fixed" })
+        }
+    });
+
+320  480  560  640  720
+
+window.location.href = window.location.href;
+
+<script type="text/javascript">
+        document.write("<link href='css/css.css?" + Math.random() + "' rel='stylesheet' type='text/css' />");
+ 	document.write("<script src='js/Reg.js?" + Math.random() + "' type='text/javascript'></scr" + "ipt>");
+ </script>
+
+<script type="text/javascript">
+        document.write("<script src='js/Reg.js?" + Math.random() + "' type='text/javascript'></scr" + "ipt>");
+</script>
+
+sass语法
+
+谷歌账户
+wangzhihuiweb@gmail.com  
+wangzhihuihly@gmail.com //mima081192@
+
+Administrator
+
+shianyunduan.com
+
+
+
+一个弹窗出现的几率是百分之三，怎么做
+
+overflow: hidden;
+white-space: nowrap;
+text-overflow: ellipsis;
+
+
+	padding-left: 13px;
+	clear: both;
+	padding-bottom: 40px;
+	overflow-y: scroll;
+    	clear: both;
+    	overflow: auto;
+    	overflow-x: hidden;
+    	max-height:460px;
+
+图片定时替换
+  //window.setInterval(TimeShow11, 500);
+    //    function TimeShow11() {
+    //   
+    //        if ($(".new q").css("display") == "block") {
+    //            $(".new q").css("display", "none");
+    //        } else if ($(".new q").css("display") == "none") {
+    //            $(".new q").css("display", "block");
+    //        }
+    //    }
+
+
+
+北京市昌平区立汤路188号北方明珠大厦1号楼1621室(15712899268)(张红霞)
+
+http://www.helloweba.com/jquery.html web技术应用分享
+
+
+王智慧(70769315)
+
+看简历http://www.taibao120.com/geren/#top
+
+文本溢出隐藏
+width:200px; 
+white-space:nowrap; 
+text-overflow:ellipsis; 
+-o-text-overflow:ellipsis; 
+overflow: hidden; 
+
+
+
+
+
+ http://localhost:14588/UserCenter/Wisdom?orderid=YD20151230114208682330&number=18514839104
+    var orderid = getParamValue("orderid");
+    var number = getParamValue("number");
+    if (orderid == "" || orderid == null || orderid == "null") {
+        layer.alert("非法来源", { icon: 3, skin: 'layer-ext-moon' }, function () {
+            window.location.href = "/";
+        })
+        return;
+    }
+
+$('#iframe').contents().find('.q').click(function(){
+		$('.bg,.report').show();	
+	});
+
+
+
+
+
+各种图表http://echarts.baidu.com/doc/example.html?qq-pf-to=pcqq.group
+
+图片压缩http://www.tinypng.com/
+JQ实例
+http://www.wufangbo.com/jquery-examples-list/
+
+;(function($){})(Zepto)
+前端学习
+http://code.ciaoca.com/
+http://www.jq22.com/
+http://www.css88.com/jqapi-1.9/
+word-wrap : break-word 
+
+word-spacing：px；（改变词之间的距离）；
+letter-spacing：px；（改变字母之间的距离）；
+letter-spacing:50px;;字体间距
+
+让IE6支持max-height、让IE6支持min-height样式属性方法http://www.divcss5.com/jiqiao/j299.shtml
+
+
+wangzhihuiweb@gmail.com
+
+对号&radic;
+
+用jquery实现滚动浏览器滚动条加载数据(类似于腾讯微博) 
+http://bbs.phpcms.cn/thread-836763-1-1.html
+
+左三角
+border-color: transparent #fff transparent transparent; border-width: 38.5px 34px 38.5px 0;
+右三角
+border-width: 38.5px 0 38.5px 34px; border-color: transparent transparent transparent #fff;
+gwdansontang@sina.cn
+压缩工具：
+http://tool.lanrentuku.com/jsformat/
+css===http://tool.lanrentuku.com/cssformat/
+
+filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+trello中文版 安装
+
+marquee  页面的自动滚动效果
+<marquee direction="up" behavior="scroll" scrollamount="1" scrolldelay="0" loop="-1" width="1000" height="50" bgcolor="#0099FF" hspace="10" vspace="10">
+指整个Marquee对齐方式; (2)behavior:设置滚动的方式: scroll:表示由一端滚动到另一端,会重复,缺陷是不能无缝滚动。 slide:表示由一段滚动到另一端,不会重复...
+</marquee>
+
+
+
+http://m.blog.csdn.net/blog/huli870715/6528229—js静髓
+
+
+http://sh.itcast.cn/sh/icd/video.shtml?140715fyymail
+
+Bootstrap中文网http://www.bootcss.com/
+
+div垂直居中:http://fyting.iteye.com/blog/92437
+http://zeptojs.com/http://www.360weboy.com/handbook/zepto/index.html—http://www.css88.com/doc/zeptojs_api中文版
+编码规范：
+http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+
+cocos2dx-html5游戏开发http://cn.cocos2d-x.org/tutorial/show?id=1195
+
+	scrollbar-arrow-color: #dcdcdc;   /*三角箭头的颜色*/
+	scrollbar-face-color: #dcdcdc;       /*立体滚动条的颜色*/
+	scrollbar-3dlight-color: #dcdcdc;    /*立体滚动条亮边的颜色*/
+	scrollbar-highlight-color: #dcdcdc;  /*滚动条空白部分的颜色*/
+	scrollbar-shadow-color: #dcdcdc;     /*立体滚动条阴影的颜色*/
+	scrollbar-darkshadow-color: #dcdcdc; /*滚动条强阴影颜色*/
+	scrollbar-track-color: #dcdcdc;      /*立体滚动条背景颜色*/
+	scrollbar-base-color: #dcdcdc;
+
+http://www.gbtags.com/gb/networks/uploads/6546f98c-b05b-4d7d-889b-43b69039fcca/demo/index.html
+
+vertical-align:middle
+
+http://jqueryui.com/hide/#default动态显示
+
+自定义滚动条	malihu-custom-scrollbar-plugin-master:;
+http://blog.sina.com.cn/s/blog_493d8aff010006fv.htmlhttp://www.cnblogs.com/yjzhu/archive/2013/08/19/3267973.html滚动条
+
+世界上最遥远的距离不是生与死，而是我就站在你面前你却不知道我爱你！
+正则：http://blog.csdn.net/xuleilx/article/details/6229141
+http://www.helloweba.com/view-blog-93.html	jquery中实现居中
+ztree 树状图
+http://localhost:4929/WebPages/Template/Template.aspx?sourceid=CJ000000
+
+
+//IE6固定定位加抖动解决
+html{
+background-image:url(about:blank);
+background-attachment:fixed;
+}    
+
+.body{_position:absolute;		
+      _right:0px;
+      _top:expression(document.documentElement.scrollTop + document.documentElement.clientHeight - this.offsetHeight);
+}//兼容ie6的固定定位
+
+blog.sina.com.cn/s/blog_6ad2ac900100ygtc.html
+
+
+高源敏 2015-2-3 16:27:21
+在圣佛道口下
+
+三角制作支持IE6
+.sanjiao{width:0;height:0;overflow:hidden;border-width:10px;border-color:transparent transparent red transparent; bprder-style:dashed dashed dashed solid dashed };ie处理
+
+
+
+居中：
+.box{
+	display: table-cell;
+      vertical-align:middle;
+
+      /*设置水平居中*/
+      text-align:center;
+
+      /* 针对IE的Hack */
+      *display: block;
+}
+.box img {
+      /*设置图片垂直居中*/
+      vertical-align:middle;
+      }
+
+
+
+//判断是否需要下一列
+function DIvS() {
+    $(".divS").each(function (index, element) {
+        if (((index + 1) % 4) == 0) {
+            $(this).css("margin-right", "0");
+        }
+    });
+}
+
+                    //var AllCount = data.Data.totalPage;
+                    //var totalnumber;
+                    //if (AllCount % pageSize == 0) {
+                    //    totalnumber = parseInt(AllCount / pageSize);
+                    //}
+                    //else {
+                    //    totalnumber = parseInt(AllCount / pageSize) + 1;
+                    //}
+                    //alert(totalnumber)
+
+
+
+http://www.jikexueyuan.com/event/html5.html?hmsr=baidu_sem_html5_dy_14
+
+模态窗口
+
+
+http://mweb.baidu.com/zeptoapi/#Touch%20events  zepto
+
+
+http://www.cnblogs.com/pifoo/archive/2011/05/28/webkit-webapp.html   webkit webApp 开发技术要点总结
+
+
+
+前端
+http://www.cssue.com/
+http://wenku.baidu.com/link?url=j6sfk213XN-4KGCq2hz_WP-eV76FHJteJ5S6kXXHfVgRuSC2ErXmRYxWgTeZqraJDchjgOu14mc4ujuddOJ_ozUIWZ2RCn4o7BfbEo1gAL3
+
+移动平台3G手机网站前端开发布局技巧汇总 http://www.wufangbo.com/mobile-3g-mobile-development/
+
+
+前端开发在移动终端上的一些经验  http://sssxiaoliya.blog.163.com/blog/static/2332903720127105014632/
+
+
+http://www.cnblogs.com/pifoo/archive/2011/05/23/webkit-touch-event-1.html  指尖下的js ——多触式web前端开发之一：对于Touch的处理
+
+
+http://seo.aizhan.com/base/   SEO是什么？
+
+
+http://www.w3school.com.cn
+上w3cschool自学jquery的ajax调用方式，读代码CustOrder/MyOrders.html和CustOrder/MyOrders.js等并达到理解的程度（可在本地随意修改测试以帮助学习和理解）。
+
+
+
+
+编码规范
+http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+
+
+<dl onclick="this.getElementsByTagName('input')[0].checked=true" >
+                	<dt><input type="radio" value="" name="1" /></dt>
+                    <dd><img src="images/jianshe.jpg" alt="建设银行" /></dd>
+</dl>
+
+
+http://localhost:12177/WebPages/Template/Template.aspx?sourceid=CJ184268
+
+
+css多边形http://www.jb51.net/css/41448.html
+
+滚动条的css   http://www.jb51.net/css/68100.html
+
+
+
+http://item.jd.com/11135543.html
+http://product.china-pub.com/3800888
+
+
+Dreamweaver 8 的注册码：WPD800-52236-48432-70383 
+Flash Profesional 8 的注册码 :WPD800-53339-14332-97403 
+Fireworks 8 的注册码:WPD800-56438-82132-82503 
+前端技术
+http://www.daqianduan.com/topic/resource
+前端优化
+http://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization
+
+
+//jquery中键盘事件的使用
+http://www.zjgsq.com/1192.html
+
+
+&copy; 圈C
+
+http://sentsin.com/jquery/layer食安云插件
+
+正则验证http://www.cnblogs.com/284996867/archive/2009/01/06/1370252.html
+
+Jquery插件http://www.cnblogs.com/RascallySnake/archive/2010/05/07/1729563.html
+
+
+
+
+http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html面向对象
+
+
+http://wenku.baidu.com/link?url=IprtLjQsJ8biBmGyd6blzmkTG3hQRoq8T3S7n2SG2Zufs_8zQf_Oz7wc_tIFy3y4I80cxR4p0sTBk0xAzRAwzsrbbJKPAV9mWQl4LTHEfYi  前端知识
+
+
+http://www.cnblogs.com/cloudgamer/archive/2010/02/01/LazyLoad.html//前端效果
+
+
+
+js框架介绍http://zhidao.baidu.com/link?url=hr368dJFm1hi5ALrt1mSxDJtIkQiA_tUoNI4hFFSaeznAeA061mHHa0sgcYuZD_XLzSONbyCYGN89V2dixRav
+
+
+iScroll 4：http://www.cnblogs.com/asqq/archive/2012/04/23/2466132.html
+
+http://www.ituring.com.cn/minibook/303   自学angular.js
+
+
+
+function randmColor(){
+   var arr=['0','1','2','3','4','5','6','7','8','9','a','b','c','d','e','f'],
+        strHex = "#";
+  for(var i=0;i<6;i++){
+    strHex += arr[Math.round(Math.random()  * 15 )]
+    }
+    return strHex;
+}
+document.write(randmColor());
+$(function(){
+	var box = document.getElementById("b4");
+	box.style.background=randmColor(); 	
+})
+
+
+非常实用的jQuery50个实用代码段  http://blog.163.com/wangzhenbo85@126/blog/static/101363282201262173332778/?suggestedreading&wumii
+
+江艳瑞QQ密码：97280357mi...
+
+
+http://developer.51cto.com/art/201409/450697.htm#585532-qzone-1-65894-a22d40cc411826e96993ed9d32d2c60d
+
+
+文本溢出隐藏处理：
+li { 
+width:200px; 
+white-space:nowrap; 
+text-overflow:ellipsis; 
+-o-text-overflow:ellipsis; 
+overflow: hidden; 
+} 
+中间显示
+//显示VIP订单
+function State(RoleID) {
+    $("#frame_content1").attr("src", "DianZhangInfo/VIPOrderInfo/VIPOrderInfo.aspx?roleid=" + RoleID);
+    var top = ($(window).height() - $('.Pops').height()) / 2;
+    var scrollTop = $(document).scrollTop();
+
+    $(".Pops").css({ 'position': 'absolute', 'top': top + scrollTop, 'left': '0' }).show();
+    $(".ca").click(function () {
+        $(".Pops").hide();
+    });
+}
+var i=1；
+ whlie(i+=2){
+	alert(i)
+}
+
+1到100的和
+var S=0, a=1;
+while(a<=100){
+    S=S+a;a=a+1    
+}
+alert(S)//5050
+
+
+闪烁提示
+<Script>
+
+18:01 2014-10-21
+</Script>
+
+<Body onload="show()">
+最新消息：<FONT ID="news" STYLE="display:none">十面埋伏...</FONT>
+</Body>
+
+
+点击显示或隐藏
+<div id="box" style="width: 100px; display: none; height: 100px; position: absolute; left: 75%; top: 50%; background: #000; margin: -50px 0 0 -50px;"></div>
+<button onclick='ONclick("box")'>点击显示/或隐藏</button>
+<script type="text/javascript">
+	function ONclick(id){
+		if($("#"+id).css("display") == "block"){
+			$("#"+id).css("display","none");
+		}else{
+			$("#"+id).css("display","block");	
+		}	
+	}
+</script>
+
+
+Number(i.money).toFixed(2)
+
+
+009定时器
+定时器：（延迟器）
+用以指定在一段特定的时间后执行某段程序。
+
+setTimeout()：（1.0版）
+格式：
+
+[定时器对象名=] setTimeout(“<表达式>”，毫秒)
+
+功能：执行<表达式>一次。
+
+
+
+例1：
+<Script>
+
+function count() {
+    setTimeout("alert('三秒到了')",3000)
+}
+
+</Script>
+
+<INPUT TYPE="button" VALUE=" 计时开始" onClick="count()">
+
+例2：
+<Script>
+
+function show() {
+    document.all['news'].style.display = "";
+    setTimeout("hide()",500);
+}
+
+function hide() {
+    document.all['news'].style.display = "none";
+    setTimeout("show()",500);
+}
+
+</Script>
+
+<Body onload="show()">
+最新消息：<FONT ID="news" STYLE="display:none">十面埋伏...</FONT>
+</Body>
+
+clearTimeout()：终止定时器
+格式：
+
+clearTimeout(定时器对象名)
+
+ 
+
+setInterval()：（1.2版）
+格式：
+
+[定时器对象名=] setInterval(“<表达式>”，毫秒)
+
+功能：重复执行<表达式>，直至窗口、框架被关闭或执行clearInterval。
+
+clearInterval()：终止定时器
+格式：
+
+clearInterval(定时器对象名)
+
+ 
+
+例1：
+<Script>
+
+var sec = 0;
+timerID = setInterval("count()",1000);
+
+function count() {
+    num.innerHTML = sec++;
+}
+
+</Script>
+
+停留时间：
+<FONT ID="num" FACE="impact">0</FONT>秒钟
+<INPUT TYPE="button" VALUE="停止" onClick="clearInterval(timerID)">
+
+例2：
+<Script>
+
+var str = "这是一个在线拍卖的网站，请尽情血拼吧！";
+var seq = 0;
+
+function scroll() {
+    msg = str.substring(0, seq+1);
+    banner.innerHTML = msg;
+    seq++;
+    if (seq >= str.length) seq = 0;
+}
+
+</Script>
+
+<Body onLoad="setInterval('scroll()',500)">
+<FONT ID="banner"></FONT>
+</Body>
+
+
+
+<table id="DPLayerMask" style=" display:block;">
+	<tr>
+		<td class="t-main" style=" display:block;">
+			<div id="MaskLayerTmpl" style=" display:block;">
+				<div class="title">
+					<img class="right" async-src="http://static.gfxiong.com/img/wx_icons/close.png" height="12" width="12" onclick="hide_date_picker_layer()"/>
+					<span>*绿色表示空闲时间</span>
+				</div>
+				<div class="dlcontain">
+					<table class="date_list" cellspacing="0">
+						<tr></tr>
+					</table>
+				</div>
+				<div class="rel">
+				</div>
+			</div>
+		</td>
+	</tr>
+</table>
+
+
+
+//跑马灯滚动
+function PublicGun() {
+    var oRoll = document.getElementById('roll');
+    var oUl = oRoll.getElementsByTagName('ul')[0];
+    var aLi = oUl.children;
+    var iSpeed = 2;
+    oUl.innerHTML += oUl.innerHTML;
+    oUl.innerHTML += oUl.innerHTML;
+    oUl.innerHTML += oUl.innerHTML;
+    oUl.style.width = (aLi[0].offsetWidth + 30) * aLi.length + 'px';
+    
+    setInterval(function () {
+        oUl.style.marginLeft = oUl.offsetLeft - iSpeed + 'px';
+        if (oUl.offsetLeft < -oUl.offsetWidth / 2) oUl.style.marginLeft = 0;
+        if (oUl.offsetLeft > 0) oUl.style.marginLeft = -oUl.offsetWidth / 2 + 'px';
+
+    }, 30);
+
+};
+
+
+
+书名；书名:响应式Web设计:HTML5和CSS3实践指南
+拉格罗 (Benjamin LaGrone) (作者), 黄博文 (译者), 饶勋荣 (译者)
+出版社: 机械工业出版社; 第1版 (2014年8月1日)
+链接:http://www.amazon.cn/3/dp/B00MHDPGGQ/ref=sr_1_7?s=books&ie=UTF8&qid=1459925191&sr=1-7&keywords=web%E5%93%8D%E5%BA%94%E5%BC%8F
+
+书名:HTML5权威指南
+弗里曼 (Adam Freeman) (作者), 谢廷晟 (译者), 牛化成 (译者), 刘美英 (译者)
+出版社: 人民邮电出版社; 第1版 (2014年1月1日)
+链接:http://www.amazon.cn/%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6-HTML5%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E5%BC%97%E9%87%8C%E6%9B%BC/dp/B00H706BIG/ref=sr_1_1?s=books&ie=UTF8&qid=1459926096&sr=1-1&keywords=html5%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97
+
+
+
+
+
+
+142631199404164847  陈云梅
+
+141034199404060269  郭红丽
+hong_li_guo@sina.com   guohongli163
